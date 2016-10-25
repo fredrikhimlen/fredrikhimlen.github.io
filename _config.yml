@@ -1,3 +1,4 @@
 name: fredrikhimlen.github.io
-markdown: redcarpet
-pygments: true
+markdown: kramdown
+highlighter: rouge
+timezone: Europe/Stockholm
